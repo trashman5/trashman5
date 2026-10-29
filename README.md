@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**trashman5/trashman5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    
+<br><br>
+<pre>
+    💼 IT Manager and Analyst
+    💻 Analog IC • Cloud Services • Cybersecurity
+    📖 Telecommunications Systems Engineer - Tecnun 26'
+    🎮 Music • Games • Anime • Code 
+    🍣 Currently learning Japanese! (N4~N3)
+</pre>
+<br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br><br>
+    
